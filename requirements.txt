@@ -3,5 +3,5 @@ azure-identity
 openai
 
 azure-core-tracing-opentelemetry
-opentelemetry
+opentelemetry-api
 opentelemetry-exporter-otlp
