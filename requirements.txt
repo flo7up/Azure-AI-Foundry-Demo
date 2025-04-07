@@ -4,3 +4,4 @@ openai
 
 azure-core-tracing-opentelemetry
 opentelemetry
+opentelemetry-exporter-otlp
